@@ -25,6 +25,6 @@ $IP:8080
 ** You can try on this folder, nor it can be right search own way where is present secrets **
 ```
  
-/var/lib/docker/volumes/97fa4bf557c1c923da9d649ef6b0dd26a95605616fa7d44d43bc6ef7bd7512b7/_data/secrets
+/var/lib/docker/volumes/Your_Id_number/_data/secrets
 
 ```
